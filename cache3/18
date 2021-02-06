@@ -1,1 +1,5 @@
-store --satkit @symbolic-link --trace-pac @object >> vnd-reserve && simulate | dense-ideniss-stop --pic-reserve-trace-modeln @pac-interscheip | rebuild_mannat | stop-plug
+#!/usr/bin/env lua
+
+--store --satkit @symbolic-link --trace-pac @object >> vnd-reserve && simulate | dense-ideniss-stop --pic-reserve-trace-modeln @pac-interscheip | rebuild_mannat | stop-plug
+
+--eof=closed

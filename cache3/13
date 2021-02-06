@@ -1,8 +1,11 @@
-ntr --sync-id //vaas-interscheip | prebuild sas-rnt //integer-pac @ram/idfos/sync/club.mit
-co-ident pac --rebuild >> draw-ltdns @interval-revolve --sync-Ymass @netreserve strng --like-foss/mit reverse-partways do treg-lime
-cdr //invoke && netbuild-reverse-pac @ident.tic --to-pin-revolve::ltdns @integer-resolve
-iden-patic-bind @soff-intake let-reverse-pin @Qident && pac resolve
-stng --ltdns && part --idrac-invert //tasce-line/sic pre-configure RDGnit && netreserve --to-pac-in-line=STOCKREVERB
-cell //ident pic-bind mtdns @soff-resolve | cli --link-ntr-trace && sap-kit-limit | parse-interscheip
-echo "sat-top-link-craw-ideff/skim"
+#!/usr/bin/env lua
 
+--pathways-to=ntr --sync-id //vaas-interscheip | prebuild sas-rnt //integer-pac @ram/idfos/sync/club.mit
+--supply=co-ident pac --rebuild >> draw-ltdns @interval-revolve --sync-Ymass @netreserve strng --like-foss/mit reverse-partways do treg-lime
+--cdr //invoke && netbuild-reverse-pac @ident.tic --to-pin-revolve::ltdns @integer-resolve
+--sinquaite=iden-patic-bind @soff-intake let-reverse-pin @Qident && pac resolve
+--stng --ltdns && part --idrac-invert //tasce-line/sic pre-configure RDGnit && netreserve --to-pac-in-line=STOCKREVERB
+--cell //ident pic-bind mtdns @soff-resolve | cli --link-ntr-trace && sap-kit-limit | parse-interscheip
+--stimulate && echo "sat-top-link-craw-ideff/skim"
+
+--eof=closed

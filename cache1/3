@@ -1,3 +1,6 @@
-ad --rac/file --sync :: ntr --skim idrac to network cpr --abnan.file == idrac-parse::and sync --to-tor
-dtr --applet rdgen ntwrk dns df --1core lib && parse --ndr applet rd-id //dnwire --stxset Tgill abrim iden-pic end-route ++ hop_rebuild:: fft-f trs.1coresm.btns //management
+#!/usr/bin/env lua
 
+--ad --rac/file --sync :: ntr --skim idrac to network cpr --abnan.file == idrac-parse::and sync --to-tor
+--dtr --applet rdgen ntwrk dns df --1core lib && parse --ndr applet rd-id //dnwire --stxset Tgill abrim iden-pic end-route ++ hop_rebuild:: fft-f trs.1coresm.btns //management
+
+--eof=closed

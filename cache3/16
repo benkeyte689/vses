@@ -1,2 +1,6 @@
-defer-crib-sync ++ ntm-rebuild @pac-limit mnt-tor::sync pac @close --dress-run//kai-fips == parse let-cden-sync::annex-sync.resolv
-bind-core-ident && parse
+#!/usr/bin/env lua
+
+--defer-crib=sync ++ ntm-rebuild @pac-limit mnt-tor::sync pac @close --dress-run//kai-fips == parse let-cden-sync::annex-sync.resolv
+--let-supply=bind-core-ident && parse
+
+--eof=closed

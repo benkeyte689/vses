@@ -1,8 +1,11 @@
-atr-ran--sinquaite @appsis --cgen-pathways=VVRAC --sequaite && --trace | plo_club
-BLG && rac-bind == parse_plug @core-integer rennis-id/ram spn edmill cf62111 >> din_build::pac-response least_tneast
-ndrgem @loss && parse ZVnell_tunlell @core-pat-mbten dennit_U::brigg-off
-vndr-set @leak_passiv == din_build @matb-trace-rac-resin && link
-ZF1T1-DNS-ONLY @sequaite-link mtr-sitball @parse drf_stwen sxtngdds | build_prace-run@objectif str-ik-ldns dtr-id-rac == ALL-plug=CHECKED
-ldns-setite //vumaxF --parse --link && bind ndr-stgen == vdx-pathways-supplied @trim | network_engage @sap-socket && supply ndrwqiertwijgbdnrselop
-net_revolve::sync && MD_trace --bi-suplly-link=CHANGE | store-cat@rac && mtr-sync Ntace_sax-goethe | delete-parse-link @supply << regen-trim >> nex_build-packet @locus_club::LGmex::all | close_link @NFI mt-stngdess @sapleak --plug
+#!/usr/bin/env lua
 
+--atr-ran --sinquaite @appsis --cgen-pathways=VVRAC --sequaite && --trace | plo_club
+--perform=BLG && rac-bind == parse_plug @core-integer rennis-id/ram spn edmill cf62111 >> din_build::pac-response least_tneast
+--configure-ndrgem @loss && parse ZVnell_tunlell @core-pat-mbten dennit_U::brigg-off
+--vndr-set @leak_passiv == din_build @matb-trace-rac-resin && link
+--provide-fips-for:ZF1T1-DNS-ONLY @sequaite-link mtr-sitball @parse drf_stwen sxtngdds | build_prace-run@objectif str-ik-ldns dtr-id-rac == ALL-plug=CHECKED
+--nat-reserve-parse @ldns-setite //vumaxF --parse --link && bind ndr-stgen == vdx-pathways-supplied @trim | network_engage @sap-socket && supply ndrwqiertwijgbdnrselop
+--then :: net_revolve::sync && MD_trace --bi-suplly-link=CHANGE | store-cat@rac && mtr-sync Ntace_sax-goethe | delete-parse-link @supply << regen-trim >> nex_build-packet @locus_club::LGmex::all | close_link @NFI mt-stngdess @sapleak --plug
+
+--eof=closed

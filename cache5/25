@@ -1,5 +1,8 @@
-iden --sync-ndr-test && link ntgt_dice_sim:iden.stn --idrac-stimulate >> iden-core-simwheel && parse /deal/ag/c1/ucfs @mntr51dG.dvs.21092
-df10S --parse-link-access::stillwhet @pnk --reran/taxis-CGwell=DIVINE
-dtr-interface @sap_modem :: nrg-stay-loft::stwen-access stg-pndr --idrac-supply::DNS-ONLY
-mntr --rac-sim@parse-link rnder-c1-Ifass @network-socket --sinquaite
+#!/usr/bin/env lua
 
+--iden --sync-ndr-test && link ntgt_dice_sim:iden.stn --idrac-stimulate >> iden-core-simwheel && parse /deal/ag/c1/ucfs @mntr51dG.dvs.21092
+--trace @pac-bind -to-df10S --parse-link-access::stillwhet @pnk --reran/taxis-CGwell=DIVINE
+--dtr-interface @sap_modem :: nrg-stay-loft::stwen-access stg-pndr --idrac-supply::DNS-ONLY
+--mntr --rac-sim@parse-link rnder-c1-Ifass @network-socket --sinquaite
+
+--eof=closed
