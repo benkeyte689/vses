@@ -1,4 +1,4 @@
-#!/usr/bin/env lua
+#!/usr/bin/env patch
 
 --sequence-skim --ident @pics-simulation --rebuild/difer/and-cli-link/mntn@sync-integer_parse
 --parse@rac --interscheip on net-resolve --iden-pic-parse && rebuild

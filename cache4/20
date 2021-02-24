@@ -1,4 +1,4 @@
-#!/usr/bin/env lua
+#!/usr/bin/env patch
 
 --then-clifft-ident pac-bond //press-red/limit
 --close-sim @dtr --stf-parse @cat/syncmnet/stop/core-sim

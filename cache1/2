@@ -1,4 +1,4 @@
-#!/usr/bin/env lua
+#!/usr/bin/env patch
 
 --combine=dgen --network-ping=cai-score::ednel++network //id/iden/studr/110.pbsu.dtr906.1tech//sim/imen.tor
 --rep-build --id//ftf ++ case //limit-for/accex cdm-nell sync k-iden str //kai-limit == ntgest set-core //limit && build

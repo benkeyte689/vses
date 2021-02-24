@@ -1,4 +1,4 @@
-#!/usr/bin/env lua
+#!/usr/bin/env patch
 
 --ntr-gem sync --network==plug delf --pin//link network-hop=TRACEROUTE desk -intshape belt priarn dns--well-link pathways --referred
 

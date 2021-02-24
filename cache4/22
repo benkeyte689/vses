@@ -1,4 +1,4 @@
-#!/usr/bin/env lua
+#!/usr/bin/env patch
 
 --strgen --face-time-pac //sit-off::rebuild ceip-modeln && dtr-unwind | stop-gap-image:: stn skim-link && ndr-trace cap/off set-tree limit && rebuild stm @cli-interval | parse::suken laccit_model && kill/off stgen --pac-resolve::all
 
