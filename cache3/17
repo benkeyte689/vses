@@ -1,4 +1,4 @@
-#!/usr/bin/env patch
+#!/usr/bin/env strace
 
 --sequence-skim --ident @pics-simulation --rebuild/difer/and-cli-link/mntn@sync-integer_parse
 --parse@rac --interscheip on net-resolve --iden-pic-parse && rebuild

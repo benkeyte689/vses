@@ -1,4 +1,4 @@
-#!/usr/bin/env patch
+#!/usr/bin/env strace
 
 --dell-interface == mtr @net-resolve --parse-core-jen @sym-link ntr-trafe fac-ptrnetresolve-limit && rebuild
 --stng cat-interscheip && rebuild-pac-reserve --to-iden-tic-reserve ++ 3

@@ -1,4 +1,4 @@
-#!/usr/bin/env patch
+#!/usr/bin/env strace
 
 --pathways-to=ntr --sync-id //vaas-interscheip | prebuild sas-rnt //integer-pac @ram/idfos/sync/club.mit
 --supply=co-ident pac --rebuild >> draw-ltdns @interval-revolve --sync-Ymass @netreserve strng --like-foss/mit reverse-partways do treg-lime

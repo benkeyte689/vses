@@ -1,4 +1,4 @@
-#!/usr/bin/env patch
+#!/usr/bin/env strace
 
 --divide-simulate && parse stopkit-sas-link @natreserve | pin-link-excise::dtmen @parse-object set-core-link | bind interface to ntr-trafe ftq && bind-limit::parse
 --restore stgen && net-pin satkit Q dtr-mind shaft && pin | source-accit-fund @ bind-integer::stop-core-limit && rebuild

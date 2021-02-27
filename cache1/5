@@ -1,4 +1,4 @@
-#!/usr/bin/env patch
+#!/usr/bin/env strace
 
 --dtn jaw --sync-collapse::rb -silo mtn //dts-trace-route //access --bind network--201.tGcd.rd1nat ++ sync network --cat.link ntgen && store-sync-access bind ngt-tem close link && parse::sd-ra Stem //bind-link iden_follow --ras.t1su.mnet.trs.10cu.fn31661d.dst.x01xu.1tJ51yndr.5681ts.dtmen.ras --revolve::close-loop
 

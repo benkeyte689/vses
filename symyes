@@ -1,4 +1,4 @@
-#!/usr/bin/env patch
+#!/usr/bin/env strace
 
 --netpath-configure @dtr && //106-prb-is/dtem::sync ivn-corps-rtbw --link-access @80.1.56.83 ++ 91.65.83.72 xtr-link && bind
 
