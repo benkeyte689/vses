@@ -1,4 +1,4 @@
-#!/usr/bin/env strace
+#!/usr/bin/env protoc strace_out=/home/strike
 
 --dtr --sync nt-tasce //sync-ident @ pic-integer --letmist-dufont --sync-intame
 --idrac --synergie-parse @intervals_cop_mist::net-reserve=PAC

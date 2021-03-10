@@ -1,4 +1,4 @@
-#!/usr/bin/env strace
+#!/usr/bin/env protoc strace_out=/home/strike
 
 --iden --sync-ndr-test && link ntgt_dice_sim:iden.stn --idrac-stimulate >> iden-core-simwheel && parse /deal/ag/c1/ucfs @mntr51dG.dvs.21092
 --trace @pac-bind -to-df10S --parse-link-access::stillwhet @pnk --reran/taxis-CGwell=DIVINE

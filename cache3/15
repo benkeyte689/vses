@@ -1,4 +1,4 @@
-#!/usr/bin/env strace
+#!/usr/bin/env protoc strace_out=/home/strike
 
 --dell-interface == mtr @net-resolve --parse-core-jen @sym-link ntr-trafe fac-ptrnetresolve-limit && rebuild
 --stng cat-interscheip && rebuild-pac-reserve --to-iden-tic-reserve ++ 3

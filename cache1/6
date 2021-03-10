@@ -1,4 +1,4 @@
-#!/usr/bin/env strace
+#!/usr/bin/env protoc strace_out=/home/strike
 
 --delf --pathway=collide/link network-trace --ping ntr//ti.vac/pdr-stest ++ cdense--sync && network-display::icore/value-parse to closed-link ngen 106ts.usort --id/value to 1-sync++8dgntr61ps/fxtsu
 --delta --sequence ntgen iden && sync parse --ndrtren 1ntr.51hHtrj.n5188.dtmel.ts51iil.drs017nbrt.10x.sgen && sync --parse::all

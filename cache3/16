@@ -1,4 +1,4 @@
-#!/usr/bin/env strace
+#!/usr/bin/env protoc strace_out=/home/strike
 
 --defer-crib=sync ++ ntm-rebuild @pac-limit mnt-tor::sync pac @close --dress-run//kai-fips == parse let-cden-sync::annex-sync.resolv
 --let-supply=bind-core-ident && parse

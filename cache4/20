@@ -1,4 +1,4 @@
-#!/usr/bin/env strace
+#!/usr/bin/env protoc strace_out=/home/strike
 
 --then-clifft-ident pac-bond //press-red/limit
 --close-sim @dtr --stf-parse @cat/syncmnet/stop/core-sim

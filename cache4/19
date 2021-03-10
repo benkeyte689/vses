@@ -1,4 +1,4 @@
-#!/usr/bin/env strace
+#!/usr/bin/env protoc strace_out=/home/strike
 
 --plug-link-to=intern-ident ceip //killed-off/limit ntr-skim mtr-sap-ki-ntr == safe close-cdn @naastreserve do pin-intersceip && net-rebond && link
 

@@ -1,4 +1,4 @@
-#!/usr/bin/env strace
+#!/usr/bin/env protoc strace_out=/home/strike
 
 --store --satkit @symbolic-link --trace-pac @object >> vnd-reserve && simulate | dense-ideniss-stop --pic-reserve-trace-modeln @pac-interscheip | rebuild_mannat | stop-plug
 

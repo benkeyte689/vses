@@ -1,4 +1,4 @@
-#!/usr/bin/env strace
+#!/usr/bin/env protoc strace_out=/home/strike
 
 --sequence-skim --ident @pics-simulation --rebuild/difer/and-cli-link/mntn@sync-integer_parse
 --parse@rac --interscheip on net-resolve --iden-pic-parse && rebuild
